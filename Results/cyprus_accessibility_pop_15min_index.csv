@@ -1,0 +1,5 @@
+City,Area_km2,WalkableRoad_km_per_km2,TransitStop_km2,AvgPopDensity_grid,Avg15minScore,PctAllServices15min,PopWtdAvg15minScore
+"Nicosia, Cyprus",20.48,37.16,10.26,2091.83,65.461,38.158,84.752
+"Limassol, Cyprus",35.48,40.16,11.47,3001.48,58.187,18.31,74.603
+"Larnaca, Cyprus",32.88,28.31,8.27,1754.95,50.288,10.769,73.518
+"Paphos, Cyprus",16.98,46.04,10.25,2350.23,76.287,23.529,81.494
